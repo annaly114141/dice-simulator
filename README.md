@@ -1,6 +1,18 @@
-# dice-simulator
+<h1 align="center">Project Name></h1>
 
-Usage:
-On command line
-Change directory
-python dice.py
+## Description
+Dice roll simulator
+
+## Available Commands
+
+In the project directory, you can run:
+
+### `python dice.py `,
+
+## Built With
+
+- Python3
+
+## Package Dependencies
+
+- random
