@@ -7,7 +7,7 @@ Dice roll simulator
 
 In the project directory, you can run:
 
-### `python dice.py `,
+### `python dice.py `
 
 ## Built With
 
