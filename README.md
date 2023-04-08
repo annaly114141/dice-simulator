@@ -1,7 +1,7 @@
-<h1 align="center">Project Name></h1>
+<h1 align="center">Dice Roll Simulator </h1>
 
 ## Description
-Dice roll simulator
+Work in progress
 
 ## Available Commands
 
