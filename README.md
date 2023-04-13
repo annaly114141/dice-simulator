@@ -1,7 +1,7 @@
 <h1 align="center">Dice Roll Simulator </h1>
 
 ## Description
-Work in progress
+Simple dice roller
 
 ## Available Commands
 
