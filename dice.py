@@ -1,4 +1,5 @@
 from random import randint
+print('Welcome! This is a dice simulator.')
 repeat = True
 while repeat:
     print("You rolled",randint(1,6))
